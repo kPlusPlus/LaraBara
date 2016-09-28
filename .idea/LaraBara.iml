@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/vendor/behat/transliterator" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/doctrine/orm" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/gedmo/doctrine-extensions" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/ircmaxell/password-compat" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/laravel-doctrine/orm" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/laravelcollective/html" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/polyfill-php55" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/symfony/serializer" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="PHP">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/behat/transliterator" />
+          <root url="file://$MODULE_DIR$/vendor/doctrine/orm" />
+          <root url="file://$MODULE_DIR$/vendor/gedmo/doctrine-extensions" />
+          <root url="file://$MODULE_DIR$/vendor/ircmaxell/password-compat" />
+          <root url="file://$MODULE_DIR$/vendor/laravel-doctrine/orm" />
+          <root url="file://$MODULE_DIR$/vendor/laravelcollective/html" />
+          <root url="file://$MODULE_DIR$/vendor/symfony/polyfill-php55" />
+          <root url="file://$MODULE_DIR$/vendor/symfony/serializer" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/behat/transliterator" />
+          <root url="file://$MODULE_DIR$/vendor/doctrine/orm" />
+          <root url="file://$MODULE_DIR$/vendor/gedmo/doctrine-extensions" />
+          <root url="file://$MODULE_DIR$/vendor/ircmaxell/password-compat" />
+          <root url="file://$MODULE_DIR$/vendor/laravel-doctrine/orm" />
+          <root url="file://$MODULE_DIR$/vendor/laravelcollective/html" />
+          <root url="file://$MODULE_DIR$/vendor/symfony/polyfill-php55" />
+          <root url="file://$MODULE_DIR$/vendor/symfony/serializer" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
