@@ -139,3 +139,8 @@ Route::get('/ORM',function (){
 
 Route::get('/uploadfile','UploadFileController@index');
 Route::post('/uploadfile','UploadFileController@showUploadFile');
+
+Route::get('upload', function() {
+  return View::make('pages.upload');
+});
+Route::post('apply/upload', 'ApplyController@upload');
