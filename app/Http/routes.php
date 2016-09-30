@@ -144,3 +144,14 @@ Route::get('upload', function() {
   return View::make('pages.upload');
 });
 Route::post('apply/upload', 'ApplyController@upload');
+
+Route::get('localization/{locale}', 'LocalizationController@index');
+
+Route::get('ajax', function () {
+    return view('message');
+});
+Route::post('/getmsg', 'AjaxController@index');
+
+Route::get('/error', function () {
+    abort(404);
+});
